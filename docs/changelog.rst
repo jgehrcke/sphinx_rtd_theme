@@ -37,6 +37,7 @@ Fixes
 
 * Set base font size on <html> (#668)
 * Fix HTML search not working with Sphinx-1.8 (#672)
+* Fix last_updated notice appearing in same line as copyright notice (#704)
 
 Other Changes
 --------------
